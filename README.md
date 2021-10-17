@@ -4,7 +4,9 @@ Analog &amp; Digital Clock
 
 > Sample Landing Page
 
-![](items/clock_page.png)
+### _View this Website in Live -_
+
+https://Grace-TA.github.io/clock/
 
 ## Using tools: HTML, CSS, JavaScript, SVG Image
 
@@ -99,9 +101,6 @@ function showTime(){
 showTime();
 
 ```
-
-### _View this Website in Live -_
-
-https://Grace-TA.github.io/clock/
+![](items/clock_page.png)
 
 Thanks for the Developer, Saikat Roy
