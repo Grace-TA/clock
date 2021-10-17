@@ -2,12 +2,11 @@
 
 Analog &amp; Digital Clock
 
-## Using tools
+> Sample Landing Page
 
-- HTML
-- CSS
-- JavaScript
-- SVG Image
+![](items/clock_page.png)
+
+## Using tools: HTML, CSS, JavaScript, SVG Image
 
 ## Features
 
@@ -100,9 +99,6 @@ function showTime(){
 showTime();
 
 ```
-> Sample Landing Page
-
-![](items/clock_page.png)
 
 ### _View this Website in Live -_
 
