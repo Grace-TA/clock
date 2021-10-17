@@ -6,7 +6,7 @@ Analog &amp; Digital Clock
 
 ### _View this Website in Live -_
 
-https://Grace-TA.github.io/clock/
+https://grace-ta.github.io/clock/
 
 ## Using tools: HTML, CSS, JavaScript, SVG Image
 
