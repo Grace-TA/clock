@@ -1,4 +1,4 @@
-# Clock
+# Clock for Break Time in Class
 
 Analog &amp; Digital Clock
 
@@ -106,15 +106,6 @@ showTime();
 
 ### _View this Website in Live -_
 
-https://njmsaikat.github.io/clock/
+https://Grace-TA.github.io/clock/
 
-> Contact With Developer:
-
-
-### Saikat Roy
-
-> Email: njmsaikat@gmail.com
-
-> Personal Portfolio: https://njmsaikat.github.io/saikat/
-
-> Linked In Profile: https://www.linkedin.com/in/njmsaikat/
+Thanks for the Developer, Saikat Roy
