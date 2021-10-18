@@ -17,7 +17,7 @@ Analog &amp; Digital Clock
 3. Date, Month, Year
 4. Location
 5. Responsive
-6. Ticking Clock sound in the Background
+6. Ticking Clock sound in the Background (Removed)
 
 > SVG SAMPLE
 
