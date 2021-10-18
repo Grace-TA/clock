@@ -1,12 +1,12 @@
 # Clock for Break Time in Class
 
-Analog &amp; Digital Clock
-
-> Sample Landing Page
-
 ### _View this Website in Live -_
 
 https://grace-ta.github.io/clock/
+
+Analog &amp; Digital Clock
+
+> Sample Landing Page
 
 ## Using tools: HTML, CSS, JavaScript, SVG Image
 
