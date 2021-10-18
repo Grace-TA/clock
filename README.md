@@ -101,6 +101,4 @@ function showTime(){
 showTime();
 
 ```
-![](items/clock_page.png)
-
 Thanks for the Developer, Saikat Roy
